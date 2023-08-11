@@ -37,7 +37,7 @@
   }
 }
 
-.gradient-background {
+.gradient-background , .retire{
   background: linear-gradient(300deg,#e5a1ff,#b68fff,#fb72c3);
   background-size: 180% 180%;
   /* color: #fff; */
@@ -56,7 +56,7 @@
   }
 }
 
-.blurs{
+.blurs, .retire1{
   background-color: #f7e9fe;
   padding: 1.5rem;
   border-radius: 10px;

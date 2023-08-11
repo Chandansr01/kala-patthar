@@ -1,11 +1,11 @@
-import logo from './logo.svg';
 import './App.css';
 import Calculator from './components/compoundInt';
+import RetirementCalculator from './components/retirement';
 
 function App() {
   return (
     <div className="App">
-        <Calculator/>
+        <RetirementCalculator/>
     </div>
   );
 }
